@@ -1,0 +1,2 @@
+Transaction{amount=12345.0, dateTime='2025-08-26T18:27:59.883742100', type='depósito', idConta='875158', user='ty'}
+Transaction{amount=12000.0, dateTime='2025-08-26T18:28:15.927224200', type='saque', idConta='875158', user='ty'}

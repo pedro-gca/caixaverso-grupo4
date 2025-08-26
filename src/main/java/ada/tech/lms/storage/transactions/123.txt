@@ -1,0 +1,2 @@
+Transaction{amount=123.0, dateTime='2025-08-26T18:17:29.269295', type='depósito', idConta='644434', user='qwe'}test
+Transaction{amount=5555.0, dateTime='2025-08-26T18:17:47.485414700', type='depósito', idConta='644434', user='qwe'}test
